@@ -6,18 +6,15 @@ module.exports = function(grunt){
         //configuration for Alarm the Ghost theme
         alarm: {
           //make sure i18n/your_locale.json exists
-          locale: 'zh_CN',
+          locale: 'nl_NL',
 
           //set the nav menu as desired
           nav: [{
             url: '/',
             title: 'Home'
           },{
-            url: '/works/',
-            title: 'Works'
-          },{
-            url: '/about/',
-            title: 'About Me'
+            url: 'https://www.boekverslagblender.com/',
+            title: 'Boekverslagblender'
           }],
 
           //there is a automatically generated nav item when user viewing
