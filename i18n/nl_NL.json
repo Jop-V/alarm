@@ -1,0 +1,22 @@
+[
+  {
+    "from": "ALARM_SEARCH_PLACEHOLDER",
+    "to": "Zoek in deze site"
+  },
+  {
+    "from": "ALARM_PUBLISH_ON",
+    "to": "Gepubliceerd op "
+  },
+  {
+    "from": "ALARM_TAGS",
+    "to": "Tags: "
+  },
+  {
+    "from": "ALARM_DATE_FORMAT",
+    "to": "D MMMM YYYY"
+  },
+  {
+    "from": "ALARM_ERROR_TEXT",
+    "to": "Sorry, fout {{code}}!"
+  }
+]
